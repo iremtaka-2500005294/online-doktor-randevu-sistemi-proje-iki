@@ -7,8 +7,6 @@
 
 Modern, karanlık/mor (Dark/Purple) temaya sahip, Python ve Tkinter kullanılarak geliştirilmiş masaüstü Hastane & Klinik Randevu Yönetim Sistemi. Nesne Yönelimli Programlama (OOP) ve Katmanlı Mimari (Layered Architecture) prensiplerine uygun olarak temiz ve sürdürülebilir bir yapıda kodlanmıştır.
 
-## 📸 Ekran Görüntüleri
-*(Buraya GitHub'a yüklerken projenin ekran görüntülerini ekleyebilirsiniz)*
 <!--
 ![Giriş Ekranı](link_ekle)
 ![Hasta Paneli](link_ekle)
